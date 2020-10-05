@@ -6,4 +6,4 @@ Applications of OOP,  A simple C++ program,
 Structure of C++ program, Specifying a class, 
 A C++ program with Class.<h2>
 <ul>
-  <li><h3> Complete the following missing statements in the below sample code which performs addition of two numbers</h3></li>
+  <li><h3>1) Complete the following missing statements in the below sample code which performs addition of two numbers</h3></li>
