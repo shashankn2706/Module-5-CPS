@@ -13,7 +13,7 @@ A C++ program with Class.</h2>
  <li><h3>5) Design and develop a C++ program to swap two integer numbers.</h3></li>
  <li><h3>6) Design and develop a C++ program to compute quotient and remainder of two numbers.</h3></li>
  <li><h3>7)	Design and develop a C++ program to Print ASCII Value.</h3></li>
- <li><h3>8) Design and develop a C++ program to find Size of a Variable.</h3></li>
+ <li><h3>8) Design and develop a C++ program to check a number is odd or even.</h3></li>
  <li><h3>9) Design and develop a C++ program to claculate the area of triangle</h3></li>
- <li><h3>10) Design and develop a C++ program to display hello using class.</h3></li>
+ <li><h3>10) Design and develop a C++ program to check an alphabet is vowel or constant.</h3></li>
  </ul>
