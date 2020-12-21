@@ -10,3 +10,15 @@
 //Expected input and output
 //Input: Enter a character  p
 //Output: The ASCII value of entered character p is 112
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+ char c;
+ std::cout << "Enter a character: ";
+ std::cin >> c;
+ std::cout << "ASCII Value of " << c << " is " << int(c);
+ return 0;
+}
