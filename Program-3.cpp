@@ -7,3 +7,17 @@
 //Expected input and output
 //Input: Enter the number  8
 //Output: The entered number is 8
+
+#include <iostream>
+using namespace std;
+
+int main()
+{    
+    int number;
+
+    std::cout << "Enter an integer: ";
+    std::cin >> number;
+
+    cout << "You entered " << number;    
+    return 0;
+}

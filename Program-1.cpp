@@ -8,16 +8,18 @@
 //The sum of two numbers is 5
 
 #include<iostream>
-void main()
+int main()
 {
     int x, y, s;    
-    cout << "Enter two numbers: ";
-    cin >> x>>y;
+    std::cout << "Enter two numbers: ";
+    std::cin >> x>>y;
+
 
     // sum of two numbers in stored in variable s    
   //COMPLETE THE CODE TO PERFORM ADDITION OF TWO NUMBERS
-
+s = x+y;
     // Prints the result
+    std::cout << x << " + " <<  y << " = " << s;   
 //WRITE THE STATEMENT WHICH PRINTS THE RESULT AND DISPLAY THE SAME
-    
+    return 0;
 }
