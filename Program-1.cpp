@@ -12,7 +12,6 @@
 //Output: The sum of two numbers is 5
 #include <iostream>
 using namespace std;
-
 int main()
 {
     int x,y,s;
