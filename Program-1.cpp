@@ -14,11 +14,11 @@
 int main()
 {
     int x,y,s;
-    cout << "Enter two integers: ";
-    cin >> x >> y;
+    std::cout << "Enter two integers: ";
+    std::cin >> x >> y;
     // sum of two numbers in stored in variable sumOfTwoNumbers
     s = x + y;
     // Prints sum 
-    cout << x << " + " <<  y << " = " << s;     
+    std::cout << x << " + " <<  y << " = " << s;     
     return 0;
 }
