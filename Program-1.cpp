@@ -11,7 +11,7 @@
 //Input: Enter two numbers: 2 3
 //Output: The sum of two numbers is 5
 #include <iostream>
-using namespace std()
+using namespace std;
 int main()
 {
     int x,y,s;
