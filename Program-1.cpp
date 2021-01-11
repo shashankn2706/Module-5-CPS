@@ -7,7 +7,7 @@
 //Enter two integers: 2 3
 //The sum of two numbers is 5
 
-#include<iostream>
+ #include<iostream>
 int main()
 {
     int x, y, s;    
