@@ -24,7 +24,7 @@ int main()
     s = x + y;
 
     // Prints sum 
-    cout << x << " + " <<  y << " = " << s;     
+    std::cout << x << " + " <<  y << " = " << s;     
 
     return 0;
 }
