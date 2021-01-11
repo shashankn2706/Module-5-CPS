@@ -16,11 +16,11 @@ using namespace std;
 int main()
 {
     int x,y,s;
-    std::cout << "Enter two integers: ";
-    std::cin >> x >> y;
+    cout << "Enter two integers: ";
+    cin >> x >> y;
     // sum of two numbers in stored in variable sumOfTwoNumbers
     s = x + y;
     // Prints sum 
-    std::cout << x << " + " <<  y << " = " << s;     
+    cout << x << " + " <<  y << " = " << s;     
     return 0;
 }
