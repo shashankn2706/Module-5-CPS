@@ -10,3 +10,21 @@
 //Expected input and output
 //Input: Enter two numbers: 2 3
 //Output: The sum of two numbers is 5
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int x,y,s;
+    
+    std::cout << "Enter two integers: ";
+    std::cin >> x >> y;
+
+    // sum of two numbers in stored in variable sumOfTwoNumbers
+    s = x + y;
+
+    // Prints sum 
+    cout << x << " + " <<  y << " = " << s;     
+
+    return 0;
+}
