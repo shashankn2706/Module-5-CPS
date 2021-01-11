@@ -1,25 +1,12 @@
-//Complete the following missing statements in the below sample code which performs addition of two numbers.
-// 1)Initially, read two numbers from the standard input
-// 2)Perform the addition operation.
-// 3)Finally, display the result on the screen.
+//Develop a C++ program to add two integer numbers.
 
-//Expected input & output:
-//Enter two integers: 2 3
-//The sum of two numbers is 5
+//Instructions
 
-#include<iostream>
-int main()
-{
-    int x, y, s;    
-    std::cout << "Enter two numbers: ";
-    std::cin >> x>>y;
+//In this program, the user enters two integer number of his choice with the help of standard input.
+//The addition operation is performed.
+//The Output for this program is the sum of two entered numbers that will be displayed on the standard output.
 
 
-    // sum of two numbers in stored in variable s    
-  //COMPLETE THE CODE TO PERFORM ADDITION OF TWO NUMBERS
-s = x+y;
-    // Prints the result
-    std::cout << x << " + " <<  y << " = " << s;   
-//WRITE THE STATEMENT WHICH PRINTS THE RESULT AND DISPLAY THE SAME
-    return 0;
-}
+//Expected input and output
+//Input: Enter two numbers: 2 3
+//Output: The sum of two numbers is 5
