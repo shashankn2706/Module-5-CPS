@@ -20,6 +20,6 @@ int main()
     // sum of two numbers in stored in variable sumOfTwoNumbers
     s = x + y;
     // Prints sum 
-    std::cout << x << " + " <<  y << " = " << s;     
+    std::cout << s;     
     return 0;
 }
